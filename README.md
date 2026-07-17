@@ -1,6 +1,6 @@
 # Research Falsification Log
 
-Every strategy here was pre-registered, tested against out-of-sample data and multiple-testing controls, and rejected on statistical grounds when it failed. This is the negative-results record — the strategies that are actually live are documented in [quant-portfolio](https://github.com/isaacnicas/quant-portfolio). Being wrong quickly and honestly is the point of the process, not a footnote to it.
+Every strategy here was pre-registered, tested against out-of-sample data and multiple-testing controls, and rejected on statistical grounds when it failed. This is the negative-results record — the strategies that are actually live are documented in [quant-portfolio](https://github.com/isaacnicas/quant-portfolio). Being wrong quickly and honestly is the whole point of this process.
 
 | Strategy | Rejected Because | Full Write-up |
 |---|---|---|
